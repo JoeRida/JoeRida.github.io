@@ -1,4 +1,6 @@
 ---
+layout: main
+title: EGH Documentation
 hide:
   - path
 ---
