@@ -1,0 +1,2648 @@
+[
+  {
+    "text": "Field Permissions (67)",
+    "icon": "fa-solid fa-folder icon-blue",
+    "a_attr": {
+      "href": null
+    },
+    "children": [
+      {
+        "text": "Case (2)",
+        "icon": "fa-solid fa-folder icon-blue",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "Case.EGH_IsOwnerSameAsLoggedIn__c",
+            "icon": "fa-solid fa-eye icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: Case.EGH_IsOwnerSameAsLoggedIn__c",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: false",
+                "icon": "fa-solid fa-circle-xmark icon-error",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "Case.EGH_IsReportingManager__c",
+            "icon": "fa-solid fa-eye icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: Case.EGH_IsReportingManager__c",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: false",
+                "icon": "fa-solid fa-circle-xmark icon-error",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "DocumentGenerationProcess (1)",
+        "icon": "fa-solid fa-folder icon-blue",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "DocumentGenerationProcess.PdfDocIdentifiersList",
+            "icon": "fa-solid fa-eye icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: DocumentGenerationProcess.PdfDocIdentifiersList",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: false",
+                "icon": "fa-solid fa-circle-xmark icon-error",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "EGH_ShowroomVisit__c (1)",
+        "icon": "fa-solid fa-folder icon-blue",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "EGH_ShowroomVisit__c.EGH_IsOwnerSameAsLoggedIn__c",
+            "icon": "fa-solid fa-eye icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: EGH_ShowroomVisit__c.EGH_IsOwnerSameAsLoggedIn__c",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: false",
+                "icon": "fa-solid fa-circle-xmark icon-error",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Lead (2)",
+        "icon": "fa-solid fa-folder icon-blue",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "Lead.EGH_IsOwnerSameAsLoggedIn__c",
+            "icon": "fa-solid fa-eye icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: Lead.EGH_IsOwnerSameAsLoggedIn__c",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: false",
+                "icon": "fa-solid fa-circle-xmark icon-error",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "Lead.EGH_IsReportingManager__c",
+            "icon": "fa-solid fa-eye icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: Lead.EGH_IsReportingManager__c",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: false",
+                "icon": "fa-solid fa-circle-xmark icon-error",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "ServiceAppointment (30)",
+        "icon": "fa-solid fa-folder icon-blue",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "ServiceAppointment.ActualDuration",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.ActualDuration",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.ActualEndTime",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.ActualEndTime",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.ActualStartTime",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.ActualStartTime",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.AdditionalInformation",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.AdditionalInformation",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.Address",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.Address",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.AppointmentInvitationId",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.AppointmentInvitationId",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.AppointmentType",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.AppointmentType",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.ArrivalWindowEndTime",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.ArrivalWindowEndTime",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.ArrivalWindowStartTime",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.ArrivalWindowStartTime",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.CancellationReason",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.CancellationReason",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.Comments",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.Comments",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.ContactId",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.ContactId",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.Description",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.Description",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.EGH_IsOwnerSameAsLoggedIn__c",
+            "icon": "fa-solid fa-eye icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.EGH_IsOwnerSameAsLoggedIn__c",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: false",
+                "icon": "fa-solid fa-circle-xmark icon-error",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.EGH_IsReportingManager__c",
+            "icon": "fa-solid fa-eye icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.EGH_IsReportingManager__c",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: false",
+                "icon": "fa-solid fa-circle-xmark icon-error",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.EGH_PostTestDriveInspection__c",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.EGH_PostTestDriveInspection__c",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.EGH_PreTestDriveInspection__c",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.EGH_PreTestDriveInspection__c",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.EGH_Quick_Scheduled__c",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.EGH_Quick_Scheduled__c",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.EGH_WorkTypeGroup__c",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.EGH_WorkTypeGroup__c",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.Email",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.Email",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.IsAnonymousBooking",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.IsAnonymousBooking",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.IsOffsiteAppointment",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.IsOffsiteAppointment",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.Phone",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.Phone",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.SchedEndTime",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.SchedEndTime",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.SchedStartTime",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.SchedStartTime",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.ServiceNote",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.ServiceNote",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.ServiceTerritoryId",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.ServiceTerritoryId",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.Subject",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.Subject",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.TimeZone",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.TimeZone",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceAppointment.WorkTypeId",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceAppointment.WorkTypeId",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "ServiceResource (5)",
+        "icon": "fa-solid fa-folder icon-blue",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "ServiceResource.AccountId",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceResource.AccountId",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceResource.AssetId",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceResource.AssetId",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceResource.Description",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceResource.Description",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceResource.IsActive",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceResource.IsActive",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceResource.LocationId",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceResource.LocationId",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "ServiceTerritory (7)",
+        "icon": "fa-solid fa-folder icon-blue",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "ServiceTerritory.Address",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceTerritory.Address",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceTerritory.Description",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceTerritory.Description",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceTerritory.IsActive",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceTerritory.IsActive",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceTerritory.PricebookId",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceTerritory.PricebookId",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceTerritory.SelfCheckInUrl",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceTerritory.SelfCheckInUrl",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceTerritory.ServiceAppointmentLimitType",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceTerritory.ServiceAppointmentLimitType",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceTerritory.TypicalInTerritoryTravelTime",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceTerritory.TypicalInTerritoryTravelTime",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "ServiceTerritoryMember (3)",
+        "icon": "fa-solid fa-folder icon-blue",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "ServiceTerritoryMember.EffectiveEndDate",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceTerritoryMember.EffectiveEndDate",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceTerritoryMember.OperatingHoursId",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceTerritoryMember.OperatingHoursId",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "ServiceTerritoryMember.Role",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: ServiceTerritoryMember.Role",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "TimeSlot (2)",
+        "icon": "fa-solid fa-folder icon-blue",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "TimeSlot.MaxAppointments",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: TimeSlot.MaxAppointments",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "TimeSlot.WorkTypeGroupId",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: TimeSlot.WorkTypeGroupId",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "WorkType (11)",
+        "icon": "fa-solid fa-folder icon-blue",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "WorkType.BlockTimeAfterAppointment",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: WorkType.BlockTimeAfterAppointment",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "WorkType.BlockTimeAfterUnit",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: WorkType.BlockTimeAfterUnit",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "WorkType.BlockTimeBeforeAppointment",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: WorkType.BlockTimeBeforeAppointment",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "WorkType.BlockTimeBeforeUnit",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: WorkType.BlockTimeBeforeUnit",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "WorkType.DefaultAppointmentType",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: WorkType.DefaultAppointmentType",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "WorkType.OperatingHoursId",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: WorkType.OperatingHoursId",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "WorkType.ProductId",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: WorkType.ProductId",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "WorkType.TimeFrameEndUnit",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: WorkType.TimeFrameEndUnit",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "WorkType.TimeFrameStartUnit",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: WorkType.TimeFrameStartUnit",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "WorkType.TimeframeEnd",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: WorkType.TimeframeEnd",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "WorkType.TimeframeStart",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: WorkType.TimeframeStart",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "WorkTypeGroup (2)",
+        "icon": "fa-solid fa-folder icon-blue",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "WorkTypeGroup.AdditionalInformation",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: WorkTypeGroup.AdditionalInformation",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          },
+          {
+            "text": "WorkTypeGroup.IsActive",
+            "icon": "fa-solid fa-square-pen icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: WorkTypeGroup.IsActive",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "genesysps__Experience__c (1)",
+        "icon": "fa-solid fa-folder icon-blue",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "genesysps__Experience__c.Phone_Number__c",
+            "icon": "fa-solid fa-eye icon-success",
+            "a_attr": {
+              "href": null
+            },
+            "children": [
+              {
+                "text": "Field: genesysps__Experience__c.Phone_Number__c",
+                "icon": "",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Editable: false",
+                "icon": "fa-solid fa-circle-xmark icon-error",
+                "a_attr": {
+                  "href": null
+                }
+              },
+              {
+                "text": "Readable: true",
+                "icon": "fa-solid fa-circle-check icon-success",
+                "a_attr": {
+                  "href": null
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Object Permissions (7)",
+    "icon": "fa-solid fa-folder icon-blue",
+    "a_attr": {
+      "href": null
+    },
+    "children": [
+      {
+        "text": "AppointmentTopicTimeSlot",
+        "icon": "fa-solid fa-web-awesome icon-success",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "Object: AppointmentTopicTimeSlot",
+            "icon": "",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Create: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Delete: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Edit: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Read: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Modify All Records: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "View All Fields: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "View All Records: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          }
+        ]
+      },
+      {
+        "text": "OperatingHours",
+        "icon": "fa-solid fa-magnifying-glass icon-success",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "Object: OperatingHours",
+            "icon": "",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Create: false",
+            "icon": "fa-solid fa-circle-xmark icon-error",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Delete: false",
+            "icon": "fa-solid fa-circle-xmark icon-error",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Edit: false",
+            "icon": "fa-solid fa-circle-xmark icon-error",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Read: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Modify All Records: false",
+            "icon": "fa-solid fa-circle-xmark icon-error",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "View All Fields: false",
+            "icon": "fa-solid fa-circle-xmark icon-error",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "View All Records: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          }
+        ]
+      },
+      {
+        "text": "ServiceAppointment",
+        "icon": "fa-solid fa-web-awesome icon-success",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "Object: ServiceAppointment",
+            "icon": "",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Create: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Delete: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Edit: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Read: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Modify All Records: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "View All Fields: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "View All Records: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          }
+        ]
+      },
+      {
+        "text": "ServiceResource",
+        "icon": "fa-solid fa-square-pen icon-success",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "Object: ServiceResource",
+            "icon": "",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Create: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Delete: false",
+            "icon": "fa-solid fa-circle-xmark icon-error",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Edit: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Read: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Modify All Records: false",
+            "icon": "fa-solid fa-circle-xmark icon-error",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "View All Fields: false",
+            "icon": "fa-solid fa-circle-xmark icon-error",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "View All Records: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          }
+        ]
+      },
+      {
+        "text": "ServiceTerritory",
+        "icon": "fa-solid fa-square-pen icon-success",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "Object: ServiceTerritory",
+            "icon": "",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Create: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Delete: false",
+            "icon": "fa-solid fa-circle-xmark icon-error",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Edit: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Read: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Modify All Records: false",
+            "icon": "fa-solid fa-circle-xmark icon-error",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "View All Fields: false",
+            "icon": "fa-solid fa-circle-xmark icon-error",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "View All Records: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          }
+        ]
+      },
+      {
+        "text": "WorkType",
+        "icon": "fa-solid fa-square-pen icon-success",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "Object: WorkType",
+            "icon": "",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Create: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Delete: false",
+            "icon": "fa-solid fa-circle-xmark icon-error",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Edit: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Read: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Modify All Records: false",
+            "icon": "fa-solid fa-circle-xmark icon-error",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "View All Fields: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "View All Records: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          }
+        ]
+      },
+      {
+        "text": "WorkTypeGroup",
+        "icon": "fa-solid fa-square-pen icon-success",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "Object: WorkTypeGroup",
+            "icon": "",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Create: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Delete: false",
+            "icon": "fa-solid fa-circle-xmark icon-error",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Edit: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Allow Read: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Modify All Records: false",
+            "icon": "fa-solid fa-circle-xmark icon-error",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "View All Fields: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "View All Records: true",
+            "icon": "fa-solid fa-circle-check icon-success",
+            "a_attr": {
+              "href": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Tab Settings (2)",
+    "icon": "fa-solid fa-folder icon-blue",
+    "a_attr": {
+      "href": null
+    },
+    "children": [
+      {
+        "text": "EGH_Test_Drive_Calendar",
+        "icon": "fa-solid fa-eye icon-success",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "Tab: EGH_Test_Drive_Calendar",
+            "icon": "",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Visibility: Visible",
+            "icon": "fa-solid fa-eye icon-success",
+            "a_attr": {
+              "href": null
+            }
+          }
+        ]
+      },
+      {
+        "text": "standard-ServiceAppointment",
+        "icon": "fa-solid fa-eye icon-success",
+        "a_attr": {
+          "href": null
+        },
+        "children": [
+          {
+            "text": "Tab: standard-ServiceAppointment",
+            "icon": "",
+            "a_attr": {
+              "href": null
+            }
+          },
+          {
+            "text": "Visibility: Visible",
+            "icon": "fa-solid fa-eye icon-success",
+            "a_attr": {
+              "href": null
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
